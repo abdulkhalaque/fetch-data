@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+table {
+    background-color: #444;
+    color: aliceblue;
+    box-shadow: 3px 2px 4px #000;
+    padding: 10px;
+}
+tr td{
+    padding: 5px;
+}
